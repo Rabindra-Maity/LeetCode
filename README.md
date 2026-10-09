@@ -25,6 +25,7 @@ journey of DSA
 ## Array
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String Matching
 |  |
@@ -42,4 +43,32 @@ journey of DSA
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
