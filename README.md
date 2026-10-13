@@ -26,6 +26,7 @@ journey of DSA
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rabindra-Maity/LeetCode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
@@ -91,4 +92,12 @@ journey of DSA
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rabindra-Maity/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rabindra-Maity/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rabindra-Maity/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
