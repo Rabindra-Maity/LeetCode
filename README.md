@@ -23,6 +23,7 @@ journey of DSA
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3516-find-closest-person](https://github.com/Rabindra-Maity/LeetCode/tree/master/3516-find-closest-person) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ journey of DSA
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rabindra-Maity/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String Matching
 |  |
 | ------- |
@@ -85,6 +87,7 @@ journey of DSA
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Quickselect
 |  |
 | ------- |
