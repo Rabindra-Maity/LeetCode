@@ -30,6 +30,7 @@ journey of DSA
 | ------- |
 | [0078-subsets](https://github.com/Rabindra-Maity/LeetCode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -61,6 +62,7 @@ journey of DSA
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -84,11 +86,13 @@ journey of DSA
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -108,4 +112,8 @@ journey of DSA
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rabindra-Maity/LeetCode/tree/master/0078-subsets) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
