@@ -18,6 +18,7 @@ journey of DSA
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ journey of DSA
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rabindra-Maity/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -66,6 +68,7 @@ journey of DSA
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +98,7 @@ journey of DSA
 | [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Quickselect
 |  |
