@@ -17,6 +17,7 @@ journey of DSA
 | [0058-length-of-last-word](https://github.com/Rabindra-Maity/LeetCode/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rabindra-Maity/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rabindra-Maity/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
@@ -35,6 +36,7 @@ journey of DSA
 | [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rabindra-Maity/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rabindra-Maity/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -122,4 +124,8 @@ journey of DSA
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rabindra-Maity/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
