@@ -10,6 +10,7 @@ journey of DSA
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Rabindra-Maity/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ journey of DSA
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rabindra-Maity/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Rabindra-Maity/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
 | ------- |
