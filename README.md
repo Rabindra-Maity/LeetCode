@@ -10,6 +10,7 @@ journey of DSA
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rabindra-Maity/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rabindra-Maity/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rabindra-Maity/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -30,6 +31,7 @@ journey of DSA
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -142,4 +144,8 @@ journey of DSA
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rabindra-Maity/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
