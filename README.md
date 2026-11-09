@@ -27,6 +27,7 @@ journey of DSA
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rabindra-Maity/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
+| [3110-score-of-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/3110-score-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rabindra-Maity/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
