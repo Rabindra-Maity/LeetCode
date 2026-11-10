@@ -22,6 +22,7 @@ journey of DSA
 | [0520-detect-capital](https://github.com/Rabindra-Maity/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rabindra-Maity/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Rabindra-Maity/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -152,4 +153,16 @@ journey of DSA
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2396-strictly-palindromic-number) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
