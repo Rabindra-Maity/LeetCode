@@ -24,6 +24,7 @@ journey of DSA
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rabindra-Maity/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rabindra-Maity/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Rabindra-Maity/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rabindra-Maity/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -157,6 +158,7 @@ journey of DSA
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Rabindra-Maity/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
