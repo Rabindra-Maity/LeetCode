@@ -41,6 +41,7 @@ journey of DSA
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Rabindra-Maity/LeetCode/tree/master/3516-find-closest-person) |
 | [3895-count-digit-appearances](https://github.com/Rabindra-Maity/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Array
@@ -59,6 +60,7 @@ journey of DSA
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rabindra-Maity/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/Rabindra-Maity/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Rabindra-Maity/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String Matching
@@ -174,4 +176,8 @@ journey of DSA
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
