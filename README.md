@@ -44,6 +44,7 @@ journey of DSA
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Rabindra-Maity/LeetCode/tree/master/3516-find-closest-person) |
 | [3895-count-digit-appearances](https://github.com/Rabindra-Maity/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3959-check-good-integer](https://github.com/Rabindra-Maity/LeetCode/tree/master/3959-check-good-integer) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +177,7 @@ journey of DSA
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [3959-check-good-integer](https://github.com/Rabindra-Maity/LeetCode/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
 | ------- |
