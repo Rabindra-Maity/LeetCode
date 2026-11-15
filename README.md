@@ -41,6 +41,7 @@ journey of DSA
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rabindra-Maity/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Rabindra-Maity/LeetCode/tree/master/3516-find-closest-person) |
@@ -61,6 +62,7 @@ journey of DSA
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rabindra-Maity/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rabindra-Maity/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rabindra-Maity/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rabindra-Maity/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rabindra-Maity/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/Rabindra-Maity/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -101,6 +103,7 @@ journey of DSA
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rabindra-Maity/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -178,6 +181,7 @@ journey of DSA
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rabindra-Maity/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3959-check-good-integer](https://github.com/Rabindra-Maity/LeetCode/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
