@@ -22,6 +22,7 @@ journey of DSA
 | [0058-length-of-last-word](https://github.com/Rabindra-Maity/LeetCode/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/Rabindra-Maity/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/Rabindra-Maity/LeetCode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rabindra-Maity/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
