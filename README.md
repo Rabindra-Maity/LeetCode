@@ -20,6 +20,7 @@ journey of DSA
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rabindra-Maity/LeetCode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Rabindra-Maity/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Rabindra-Maity/LeetCode/tree/master/0709-to-lower-case) |
@@ -122,6 +123,7 @@ journey of DSA
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Rabindra-Maity/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -129,6 +131,7 @@ journey of DSA
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rabindra-Maity/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -191,4 +194,8 @@ journey of DSA
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
