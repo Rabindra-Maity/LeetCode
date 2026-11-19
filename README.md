@@ -21,6 +21,7 @@ journey of DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rabindra-Maity/LeetCode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Rabindra-Maity/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Rabindra-Maity/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Rabindra-Maity/LeetCode/tree/master/0709-to-lower-case) |
@@ -40,6 +41,7 @@ journey of DSA
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Rabindra-Maity/LeetCode/tree/master/0415-add-strings) |
 | [2396-strictly-palindromic-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rabindra-Maity/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rabindra-Maity/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -185,6 +187,7 @@ journey of DSA
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Rabindra-Maity/LeetCode/tree/master/0415-add-strings) |
 | [2109-adding-spaces-to-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rabindra-Maity/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
