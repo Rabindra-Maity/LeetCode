@@ -34,6 +34,7 @@ journey of DSA
 | [1768-merge-strings-alternately](https://github.com/Rabindra-Maity/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rabindra-Maity/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rabindra-Maity/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/Rabindra-Maity/LeetCode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/3110-score-of-a-string) |
