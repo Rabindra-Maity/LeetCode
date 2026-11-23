@@ -6,6 +6,7 @@ journey of DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rabindra-Maity/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rabindra-Maity/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Rabindra-Maity/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -56,6 +57,7 @@ journey of DSA
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rabindra-Maity/LeetCode/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/Rabindra-Maity/LeetCode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rabindra-Maity/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rabindra-Maity/LeetCode/tree/master/0229-majority-element-ii) |
@@ -180,6 +182,7 @@ journey of DSA
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rabindra-Maity/LeetCode/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rabindra-Maity/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
